@@ -390,6 +390,15 @@ header{
     align-items: flex-start;
 }
 
+.dev-by{
+    margin-top: 20px;
+    font-size: 0.9rem;
+    text-align: center;
+    background-color: #2294ed;
+    color: white;
+    border-radius: 15px;
+}
+
 .product{
     flex-direction: column;
     align-items: flex-start;
@@ -419,3 +428,5 @@ header{
 .subfooter1,.subfooter2{
     gap: 30px;
 }
+
+
